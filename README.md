@@ -2,25 +2,17 @@
 
 <h3 align="center">👋 مرحباً! أنا ندى زوين</h3>
 
-<table align="right">
+<table align="left">
  <tr><td><a href="README.md"><img src="https://flagcdn.com/w20/sa.png" height="13"> العربية</a></td></tr>
  <tr><td><a href="README_tr.md"><img src="https://flagcdn.com/w20/tr.png" height="13"> Türkçe</a></td></tr>
 </table>
 
+<br/><br/>
+
 ### :space_invader: &nbsp;نبذة عني
 
 &nbsp;&nbsp;&nbsp; :woman_technologist: &nbsp;طالبة هندسة حاسوب في المعهد التقني للحاسوب. \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;شغوفة بتعلم التقنيات الجديدة وبناء مشاريع حقيقية.\
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;أحب حل المشكلات والبرمجة الإبداعية.\
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;أستكشف دائماً تطوير البرمجيات والأطر الحديثة.\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;متحمسة للبرمجة مع خبرة عملية في لغات برمجة متعددة.\
-&nbsp;&nbsp;&nbsp; :woman_student: &nbsp;أنمو باستمرار كمطورة ومهندسة.\
 &nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;أتحدث العربية والتركية.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/العربية-1E90FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Türkçe-E30A17?style=for-the-badge&logoColor=white" />
-</p>
 
 <hr/>
 
