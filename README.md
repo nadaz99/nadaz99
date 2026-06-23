@@ -1,30 +1,31 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=NADA%20ZOUEN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=طالبة%20هندسة%20حاسوب%20%7C%20المعهد%20التقني%20للحاسوب&descSize=18&descAlignY=60" />
+
+<h3 align="center">👋 مرحباً! أنا ندى زوين</h3>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://flagcdn.com/w20/sa.png" height="13"> العربية</a></td></tr>
+ <tr><td><a href="README_tr.md"><img src="https://flagcdn.com/w20/tr.png" height="13"> Türkçe</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;نبذة عني
 
-&nbsp;&nbsp;&nbsp; :woman_technologist: &nbsp;Computer Engineering student at the Technical Institute of Computer Science. \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Passionate about learning new technologies and building real-world projects.\
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Love for problem solving and creative coding.\
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always exploring software development and modern frameworks.\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding enthusiast with hands-on experience in multiple programming languages.\
-&nbsp;&nbsp;&nbsp; :woman_student: &nbsp;Continuously growing as a developer and engineer.
+&nbsp;&nbsp;&nbsp; :woman_technologist: &nbsp;طالبة هندسة حاسوب في المعهد التقني للحاسوب. \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;شغوفة بتعلم التقنيات الجديدة وبناء مشاريع حقيقية.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;أحب حل المشكلات والبرمجة الإبداعية.\
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;أستكشف دائماً تطوير البرمجيات والأطر الحديثة.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;متحمسة للبرمجة مع خبرة عملية في لغات برمجة متعددة.\
+&nbsp;&nbsp;&nbsp; :woman_student: &nbsp;أنمو باستمرار كمطورة ومهندسة.\
+&nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;أتحدث العربية والتركية.
 
 <p align="center">
-  <a href="mailto:ndazwayn@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ndazwayn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ndazwayn"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/العربية-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Türkçe-E30A17?style=for-the-badge&logoColor=white" />
 </p>
 
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main Tech Stack</b></summary>
+  <summary><b>:computer: &nbsp;التقنيات الرئيسية</b></summary>
   <br/>
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -45,7 +46,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other Knowledge & Always Learning</b></summary>
+  <summary><b>:brain: &nbsp;معرفة أخرى ودائمة التعلم</b></summary>
   <br/>
 
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -61,7 +62,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;إحصائيات GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ndazwayn&hide_border=true&theme=nightowl" />
