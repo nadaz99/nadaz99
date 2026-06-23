@@ -10,14 +10,12 @@
 
 <br/><br/><br/><br/>
 
-<h3 align="left">:space_invader: &nbsp;نبذة عني</h3>
+### :space_invader: &nbsp;نبذة عني
 
-<p align="left">
 &nbsp;&nbsp;&nbsp; :woman_technologist: &nbsp;طالبة هندسة حاسوب في المعهد التقني للحاسوب. \
 &nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;أتحدث العربية والتركية.
-</p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
