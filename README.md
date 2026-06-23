@@ -1,18 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=NADA%20ZOUEN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=طالبة%20هندسة%20حاسوب%20%7C%20المعهد%20التقني%20للحاسوب&descSize=18&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,50:92FE9D,100:00C9FF&height=250&section=header&text=NADA%20ZOUEIN&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=طالبة%20هندسة%20حاسوب%20%7C%20المعهد%20التقني%20للحاسوب&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=2" />
 
 <h3 align="center">👋 مرحباً! أنا ندى زوين</h3>
 
 <table align="left">
+ <tr><td colspan="2"><b>🗣️ اللغات التي أتحدثها</b></td></tr>
  <tr><td><a href="README.md"><img src="https://flagcdn.com/w20/sa.png" height="13"> العربية</a></td></tr>
  <tr><td><a href="README_tr.md"><img src="https://flagcdn.com/w20/tr.png" height="13"> Türkçe</a></td></tr>
 </table>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 ### :space_invader: &nbsp;نبذة عني
 
 &nbsp;&nbsp;&nbsp; :woman_technologist: &nbsp;طالبة هندسة حاسوب في المعهد التقني للحاسوب. \
 &nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;أتحدث العربية والتركية.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 <hr/>
 
