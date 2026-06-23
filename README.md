@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,50:92FE9D,100:00C9FF&height=250&section=header&text=NADA%20ZOUEIN&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=طالبة%20هندسة%20حاسوب%20%7C%20المعهد%20التقني%20للحاسوب&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=2" />
+<img src="images/svg/header_en.svg"></img>
 
 <h3 align="center">👋 مرحباً! أنا ندى زوين</h3>
 
