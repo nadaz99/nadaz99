@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=NADA%20ZOUEIN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=طالبة%20هندسة%20حاسوب%20%7C%20المعهد%20التقني%20للحاسوب&descSize=18&descAlignY=60" />
 
-<h3 align="left">👋 مرحباً! أنا ندى زوين</h3>
+<h3 align="center">👋 مرحباً! أنا ندى زوين</h3>
 
 <table align="left">
  <tr><td colspan="2"><b>🗣️ اللغات التي أتحدثها</b></td></tr>
@@ -10,10 +10,12 @@
 
 <br/><br/><br/><br/>
 
-### :space_invader: &nbsp;نبذة عني
+<h3 align="left">:space_invader: &nbsp;نبذة عني</h3>
 
+<p align="left">
 &nbsp;&nbsp;&nbsp; :woman_technologist: &nbsp;طالبة هندسة حاسوب في المعهد التقني للحاسوب. \
 &nbsp;&nbsp;&nbsp; :speech_balloon: &nbsp;أتحدث العربية والتركية.
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
